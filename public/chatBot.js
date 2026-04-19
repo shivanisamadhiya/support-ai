@@ -59,7 +59,7 @@
       justify-content:space-between;
       align-items:center;
     ">
-    <span>Customer Support</span>
+    <span>Patient Support</span>
      <span id="chat-close" style="cursor:pointer;font-size:16px">╳</span>
     </div>
 
